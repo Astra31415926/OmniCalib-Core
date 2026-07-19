@@ -1,3 +1,9 @@
+<!-- sci-auto-desc -->
+OmniCalib-Core
+
+[Live site](https://astra31415926.github.io/OmniCalib-Core/)
+<!-- sci-auto-desc -->
+
 # OmniCalib-Core
 
 Математическое ядро системы сквозной детерминированной калибровки цвета с открытым исходным кодом.
