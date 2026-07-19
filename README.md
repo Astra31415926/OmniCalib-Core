@@ -1,5 +1,5 @@
 <!-- sci-auto-desc -->
-OmniCalib-Core
+OmniCalib-Core — calibration module for the SCI color QR code project.
 
 [Live site](https://astra31415926.github.io/OmniCalib-Core/)
 <!-- sci-auto-desc -->
